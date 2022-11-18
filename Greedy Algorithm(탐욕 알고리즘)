@@ -1,0 +1,14 @@
+- Greedy : 탐욕스로운, 욕심 많은
+- 선택의 순간마다 당장 눈앞에 보이는 최적의 상황만을 쫓아 최정적인 해답에 도달하는 방법
+- 매 선택마다 최적의 선택을 하는 것이라 최종경로가 최적이라는 보장은 없다.
+
+<Greedy Algorithm 문제>
+- 활동 선택 문제
+>> 예시 ) 한 강의실에서 여러 개의 수업을 하려고 할 때 한번에 가장 많은 수업을 할 수있는 경우를 고르는 문제
+
+- 분할 가능 배낭문제
+>> 물건이 무거울 경우 쪼개서 넣을 수 있는 배낭문제
+
+
+출처 : https://www.zerocho.com/category/Algorithm/post/584ba5c9580277001862f188
+참고 : https://hanamon.kr/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-greedy-algorithm/
